@@ -1,0 +1,14 @@
+.Profile{
+    position: relative;
+    float: left;
+    width: 100%;
+}
+.ProfileCenter .PostSide{
+    height: auto;
+}
+
+.Profile-center{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
